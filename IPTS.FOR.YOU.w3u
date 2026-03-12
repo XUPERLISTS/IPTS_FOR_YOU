@@ -18,7 +18,7 @@
 "info": "01",
 "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
 "embed":"",
-"url":"http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=m3u8",
+"url":"http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=ts",
 "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
 "timeout": "90",
 "import": false
