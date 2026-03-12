@@ -1,51 +1,30 @@
 {
-"name": "IPTS FOR YOU",
-"author": "By @DDM & XUPERLIST",
-"image": "https://i.postimg.cc/vBXLqtcp/logo8-28-02839.png",
-"url": "https://raw.githubusercontent.com/XUPERLISTS/IPTS_FOR_YOU/main/IPTS.FOR.YOU.w3u",
-"telegram": "Group_Xuperlists",
-"info":"",
-"buffer": "20000",
-"groups":
-[
-{
-"name": "SI TIENES GEOBLOQUEOS, ACTIVA UN VPN", 
-"image": "https://i.postimg.cc/52L7QpkK/3dgifmaker37187.gif",
-"info": "VAMOS QUE SI NO VA ACTIVES UN VPN"
-},
-{
-"name": "Ipts For You 1",
-"info": "01",
-"image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-"embed":"",
-"url":"http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=ts",
-"http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
-"timeout": "90",
-"import": false
-},
-{
-"name": "Ipts For You 2",
-"info": "01",
-"image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-"embed":"",
-"url":"http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=ts",
-"http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
-"timeout": "90",
-"import": false
-},
-{
-"name": "Ipts For You 3",
-"info": "01",
-"image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-"embed":"",
-"url":"http://ccvopojh.top:8080/get.php?username=VIP017481754524202537&password=348a2f1e417d&type=m3u_plus&output=ts",
-"http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
-"timeout": "90",
-"import": false
-}
+  "name": "IPTS FOR YOU (ESTABLE TOTAL)",
+  "author": "By @DDM & XUPERLIST",
+  "buffer": "30000",
+  "timeout": "90",
+  "groups": [
 
-
-
-
-]
+      {
+      "name": "Ipts For You 1",
+      "url": "http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=ts",
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "buffer": "30000",
+      "import": false
+      },
+      {
+      "name": "Ipts For You 2",
+      "url": "http://aguacateysal.com:80/get.php?username=4kYBPHnWcPRN&password=8D9TKbtzCXnM&type=m3u_plus&output=ts",
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "buffer": "30000",
+      "import": false
+      },
+      {
+      "name": "Ipts For You 3",
+      "url": "http://ccvopojh.top:8080/get.php?username=VIP017481754524202537&password=348a2f1e417d&type=m3u_plus&output=ts",
+      "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "buffer": "35000",
+      "import": false
+      }
+  ]
 }
