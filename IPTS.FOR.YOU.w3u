@@ -4,7 +4,7 @@
   "image": "https://i.postimg.cc/vBXLqtcp/logo8-28-02839.png",
   "url": "https://raw.githubusercontent.com/XUPERLISTS/IPTS_FOR_YOU/main/IPTS.FOR.YOU.w3u",
   "telegram": "Group_Xuperlists",
-  "buffer": "30000",
+  "buffer": "10000",
   "groups": [
     {
       "name": "SI TIENES GEOBLOQUEOS, ACTIVA UN VPN",
@@ -14,27 +14,27 @@
     {
       "name": "Ipts For You 1",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://uu246.neqwcop.top:8080/get.php?username=8251723372661174&password=ee9d128eabd9&type=m3u_plus&output=ts",
+      "url": "http://uu246.neqwcop.top:8080/get.php?username=8251723372661174&password=ee9d128eabd9&type=m3u_plus&output=m3u8",
       "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-      "buffer": "30000",
+      "buffer": "10000",
       "timeout": "90",
       "import": false
     },
     {
       "name": "Ipts For You 2",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://uu246.neqwcop.top:8080/get.php?username=1761748316851777&password=182deb976e8f&type=m3u_plus& output=ts",
+      "url": "http://uu246.neqwcop.top:8080/get.php?username=1761748316851777&password=182deb976e8f&type=m3u_plus&output=m3u8",
       "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-      "buffer": "30000",
+      "buffer": "10000",
       "timeout": "90",
       "import": false
     },
     {
       "name": "Ipts For You 3",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://rlatinop.com:8880/get.php?username=jp0x001&password=wJaThgzBZVjk&type=m3u_plus&output=ts",
+      "url": "http://rlatinop.com:8880/get.php?username=jp0x001&password=wJaThgzBZVjk&type=m3u_plus&output=m3u8",
       "http-user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-      "buffer": "35000",
+      "buffer": "10000",
       "timeout": "90",
       "import": false
 
