@@ -15,7 +15,7 @@
     {
       "name": "Ipts For You 1",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://esodette.top:8080/get.php?username=es2231754394935290&password=f25e8a287120&type=m3u_plus&output=m3u8",
+      "url": "http://tv.diablotv.net:8080/get.php?username=eEiiLll09384Ecaiman34RtR&password=KTap2pdJx7&type=m3u_plus&output=m3u8",
       "http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
       "buffer": "500",
       "timeout": "5",
@@ -24,7 +24,7 @@
     {
       "name": "Ipts For You 2",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://esodette.top:8080/get.php?username=es4401743867416247&password=7f7861183c9c&type=m3u_plus&output=m3u8",
+      "url": "http://canal-pro.xyz:8080/get.php?username=PLAYLIFEoffshore@.207824*&password=5uvLVJqVYK&type=m3u_plus& output=m3u8",
       "http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
       "buffer": "500",
       "timeout": "5",
@@ -38,12 +38,15 @@
       "buffer": "500",
       "timeout": "5",
       "import": false
-
-
-
-
-
-
-    }
+     },
+     {
+      "name": "Ipts For You 4",
+      "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
+      "url": "http://galileatv.top:8080/get.php?username=tr9FPcWPeWy8&password=W28Lsh5kkqwG&type=m3u_plus&output=m3u8",
+      "http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
+      "buffer": "500",
+      "timeout": "5",
+      "import": false
+      }
   ]
 }
