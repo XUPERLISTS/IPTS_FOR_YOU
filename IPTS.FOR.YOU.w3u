@@ -15,7 +15,7 @@
     {
       "name": "Ipts For You 1",
       "image": "https://i.postimg.cc/6QfdqfLy/logo8-28-02914.png",
-      "url": "http://lunar.pm:8080/get.php?username=2055735047&password=PtuUrexwIC&type=m3u_plus",
+      "url": "http://lunar.pm:8080/get.php?username=2055735047&password=PtuUrexwIC&type=m3u_plus&output=m3u8",
       "http-user-agent": "VLC/3.0.18 LibVLC/3.0.18",
       "buffer": "500",
       "timeout": "5",
